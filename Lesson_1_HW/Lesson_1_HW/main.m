@@ -14,6 +14,7 @@ int main(int argc, const char * argv[]) {
         NSLog(@"Hello, World!");
         NSLog(@"Первый коммит.");
         NSLog(@"Коммит №2");
+        NSLog(@"Закончил изменения.");
     }
     return 0;
 }
